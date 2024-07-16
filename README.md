@@ -137,6 +137,13 @@ RedRose Stealer provides the following features for supported browsers:
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/user-attachments/assets/a9379acd-6d20-46d6-a60c-784a1b77a86b"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/user-attachments/assets/1139682b-2e6b-4106-9768-1b41dceb67db"></img>
+  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">   
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/user-attachments/assets/e722dbae-4349-46bc-ba2d-b7c3eee1d0ba"></img>
+ <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">
+ <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/user-attachments/assets/73928a34-d474-47a2-9e37-cee54d7b573c"></img>
+
+
+
 
 
 
