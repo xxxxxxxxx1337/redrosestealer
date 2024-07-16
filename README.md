@@ -51,6 +51,7 @@ RedRose Stealer supports the following browsers:
 - OperaGX
 - OperaNeon
 - Yandex
+- Firefox
 
 ## Features
 
