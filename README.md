@@ -17,7 +17,7 @@
     <br>
 </p>
 <h1 align="center">
-Screen Viewer + HVNC AT 200 STARS
+Screen Viewer + HVNC AT 50 STARS
 
 <h1 align="center">
 🛡️ RedRose Stealer v1.0
