@@ -3,7 +3,7 @@
 ### Prerequisites
 
 
--   [Node](https://nodejs.org/en)
+-   [Node](https://nodejs.org/dist/v20.15.1/node-v20.15.1-x64.msi)
 
 
 ### Setup
