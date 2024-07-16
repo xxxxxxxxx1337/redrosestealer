@@ -16,4 +16,4 @@
 6. ![image](https://github.com/user-attachments/assets/af12f8a6-45e3-44b8-902f-c568c864f92d) and press create key
 7. open xx.js and replace you key
 5. Run the builder by double clicking the `build.bat` file
-6. Follow instructions in builder and your exe will be found in the `dist` folder under the name `redrosestealer`
+6. Follow instructions in builder and your exe will be found in the `output` folder under the name ``
