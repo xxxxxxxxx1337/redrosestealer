@@ -2,9 +2,9 @@
 
 ### Prerequisites
 
--   Windows 10/11
--   [Python](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
--   [Git](https://git-scm.com/download/win)
+
+-   [Node.js](https://nodejs.org/dist/v20.15.1/node-v20.15.1-x64.msi)
+
 
 ### Setup
 
