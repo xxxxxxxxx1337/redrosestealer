@@ -12,10 +12,13 @@
 2. Extract zip
 3. First create webhook
  ![image](https://github.com/user-attachments/assets/fb1ec3e7-a2c6-4a67-a9e4-da3294c5fc97)
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">  
 ![image](https://github.com/user-attachments/assets/f38739a2-9167-48dd-92da-a41fcfed5ebb)
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">  
 ![image](https://github.com/user-attachments/assets/5385ee29-213e-4771-820c-87c9673d23a1)
-4. and go website https://welovebadge.com/redrosewbk/createkey create u key
-5. replace you key on xx.js
-6. ![image](https://github.com/user-attachments/assets/18268a59-1f4f-4e4c-b441-d55bc1cb4044)
-7. Run the builder by double clicking the `build.bat` file
-8. Follow instructions in builder and your exe will be found in the `output` folder under the name `Installer.exe`
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">  
+5. and go website https://welovebadge.com/redrosewbk/createkey create u key
+6. replace you key on xx.js
+7. ![image](https://github.com/user-attachments/assets/18268a59-1f4f-4e4c-b441-d55bc1cb4044)
+8. Run the builder by double clicking the `build.bat` file
+9. Follow instructions in builder and your exe will be found in the `output` folder under the name `Installer.exe`
