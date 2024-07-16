@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img  src="https://hizliresim.com/hig1t8l">
+    <img  src="https://hizliresim.com/hig1t8l.png">
   </div>
   </div> 
 
