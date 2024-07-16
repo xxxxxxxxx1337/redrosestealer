@@ -131,15 +131,4 @@ RedRose Stealer provides the following features for supported browsers:
 - ❗️ Source is highly obfuscated
 - ❗️ Sends all files to your discord webhook or telegram
 
-### 📝 〢 Todo
-
-Here are some of the upcoming features and improvements we plan to add to Red Rose Stealer:
-
-> - More grabbers (VPN's, Gaming, Messengers,Steam Sessions,RedditSessions,Twitter Session,Minecraft Session stealer,FTP stealer (FileZilla))
-> - Firefox stealer
-
-Feel free to check back for updates on these exciting enhancements!
-
-
----
 
