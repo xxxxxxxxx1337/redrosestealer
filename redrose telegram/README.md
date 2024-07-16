@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
--   Windows 10/11
+
 -   [Node](https://nodejs.org/en)
 
 
