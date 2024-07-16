@@ -1,0 +1,34 @@
+{
+  "name": "Installer",
+  "version": "1.0.0",
+  "description": "Unity-Game",
+  "main": "2774d371798da45d.js",
+  "author": "Unity-Game",
+  "license": "Copyright Unity-Game. MIT license.",
+  "build": {
+    "directories": {
+      "output": "output"
+    },
+    "win": {
+      "icon": "icon.ico",
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "@primno/dpapi": "^1.1.2",
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.7",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "electron": "^11.5.0",
+    "electron-builder": "^20.44.4"
+  }
+}

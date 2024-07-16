@@ -1,0 +1,29 @@
+{
+  "target": "node",
+  "preset": "high",
+
+  "calculator": true,
+  "compact": true,
+  "hexadecimalNumbers": true,
+  "controlFlowFlattening": 1.0,
+  "deadCode": 0.7,
+  "dispatcher": true,
+  "duplicateLiteralsRemoval": 1.0,
+  "flatten": true,
+  "globalConcealing": true,
+  "identifierGenerator": "mangled",
+  "minify": true,
+  "movedDeclarations": true,
+  "objectExtraction": true,
+  "opaquePredicates": 1.0,
+  "renameVariables": true,
+  "renameGlobals": true,
+  "shuffle": { "hash": 1.0, "true": 1.0 },
+  "stack": true,
+  "stringConcealing": true,
+  "stringCompression": true,
+  "stringEncoding": true,
+  "stringSplitting": 1.0,
+
+  "rgf": true
+}
