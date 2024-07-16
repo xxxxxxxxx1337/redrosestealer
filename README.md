@@ -131,6 +131,8 @@ RedRose Stealer provides the following features for supported browsers:
 - ❗️ Source is highly obfuscated
 - ❗️ Sends all files to your discord webhook or telegram
 
+
+# :loudspeaker: Telegram notification:
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/user-attachments/assets/a9379acd-6d20-46d6-a60c-784a1b77a86b"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
