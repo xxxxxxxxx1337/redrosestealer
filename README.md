@@ -16,8 +16,10 @@
     <img src="https://img.shields.io/github/issues-closed/pixelar56/redrosestealer?color=%23000000&logoColor=%23000000">
     <br>
 </p>
-
+<p align="center">
   Telegram: https://t.me/redroseprojectt
+  <br>
+  
   <h1 align="center">
 Screen Viewer + HVNC AT 50 STARS
 
