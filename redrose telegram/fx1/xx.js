@@ -21,7 +21,7 @@ var appdata = process.env.APPDATA,
     LOCAL = process.env.LOCALAPPDATA,
     localappdata = process.env.LOCALAPPDATA;
 
-const key = "39e72d5c6f30fcec3f27cd9231ee81df"
+const key = "https://welovebadge.com/redrosetg/createkey enter the key you created"
 const api_url = "https://welovebadge.com/redrosetg";
 
 let paths = [
